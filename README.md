@@ -6,9 +6,9 @@ This repository contains the code for a financial web application built using Da
 
 ## Overview
 
-This financial app provides users with powerful data mining capabilities, allowing them to analyze and visualize financial data from a variety of sources. The app uses the AlphaVantage API and the yfinance Python package to gather data on stocks, including historical prices and volumes.
+This financial app was built with the intend to provide users with data mining capabilities, allowing them to analyze and visualize financial data from a variety of sources. The app uses the AlphaVantage API and the yfinance Python package to gather data on stocks, including historical prices and volumes.
 
-In addition to data mining, the app also uses machine learning techniques to perform sentiment analysis on financial news and social media posts. This allows users to gain insights into the public perception of different stocks and make more informed investment decisions.
+In addition to data mining, the app also uses machine learning techniques to perform sentiment analysis on financial news and social media posts trying to classify them as bullish or bearish. This allows users to gain insights into the public perception of different stocks and make more informed investment decisions.
 
 ## Features
 
